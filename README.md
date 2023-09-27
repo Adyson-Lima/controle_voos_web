@@ -14,11 +14,11 @@
 ### Utilização
 ```bash
 # clonar o repositorio
-git clone...
+git clone https://github.com/Adyson-Lima/controle_voos_web.git
 
-# Entre na pasta lib_mini_desktop
-cd ...
+# Entrar na pasta lib_mini_desktop
+cd controlevoos_web
 
-# Rode o comando abaixo 
+# Rodar o comando abaixo 
 npm start
 ```
